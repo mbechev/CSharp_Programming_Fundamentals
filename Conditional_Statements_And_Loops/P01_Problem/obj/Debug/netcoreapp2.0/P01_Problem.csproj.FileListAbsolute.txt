@@ -1,0 +1,11 @@
+C:\Users\marti\Documents\Programming Fundamentals C#\Conditional_Statements_And_Loops\P01_Problem\bin\Debug\netcoreapp2.0\P01_Problem.deps.json
+C:\Users\marti\Documents\Programming Fundamentals C#\Conditional_Statements_And_Loops\P01_Problem\bin\Debug\netcoreapp2.0\P01_Problem.runtimeconfig.json
+C:\Users\marti\Documents\Programming Fundamentals C#\Conditional_Statements_And_Loops\P01_Problem\bin\Debug\netcoreapp2.0\P01_Problem.runtimeconfig.dev.json
+C:\Users\marti\Documents\Programming Fundamentals C#\Conditional_Statements_And_Loops\P01_Problem\bin\Debug\netcoreapp2.0\P01_Problem.dll
+C:\Users\marti\Documents\Programming Fundamentals C#\Conditional_Statements_And_Loops\P01_Problem\bin\Debug\netcoreapp2.0\P01_Problem.pdb
+C:\Users\marti\Documents\Programming Fundamentals C#\Conditional_Statements_And_Loops\P01_Problem\obj\Debug\netcoreapp2.0\P01_Problem.csprojAssemblyReference.cache
+C:\Users\marti\Documents\Programming Fundamentals C#\Conditional_Statements_And_Loops\P01_Problem\obj\Debug\netcoreapp2.0\P01_Problem.csproj.CoreCompileInputs.cache
+C:\Users\marti\Documents\Programming Fundamentals C#\Conditional_Statements_And_Loops\P01_Problem\obj\Debug\netcoreapp2.0\P01_Problem.AssemblyInfoInputs.cache
+C:\Users\marti\Documents\Programming Fundamentals C#\Conditional_Statements_And_Loops\P01_Problem\obj\Debug\netcoreapp2.0\P01_Problem.AssemblyInfo.cs
+C:\Users\marti\Documents\Programming Fundamentals C#\Conditional_Statements_And_Loops\P01_Problem\obj\Debug\netcoreapp2.0\P01_Problem.dll
+C:\Users\marti\Documents\Programming Fundamentals C#\Conditional_Statements_And_Loops\P01_Problem\obj\Debug\netcoreapp2.0\P01_Problem.pdb

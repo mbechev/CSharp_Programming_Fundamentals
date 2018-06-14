@@ -1,0 +1,11 @@
+C:\Users\marti\Documents\Programming Fundamentals C#\Conditional_Statements_And_Loops\P06_Theatre_Promotions\bin\Debug\netcoreapp2.0\P06_Theatre_Promotions.deps.json
+C:\Users\marti\Documents\Programming Fundamentals C#\Conditional_Statements_And_Loops\P06_Theatre_Promotions\bin\Debug\netcoreapp2.0\P06_Theatre_Promotions.runtimeconfig.json
+C:\Users\marti\Documents\Programming Fundamentals C#\Conditional_Statements_And_Loops\P06_Theatre_Promotions\bin\Debug\netcoreapp2.0\P06_Theatre_Promotions.runtimeconfig.dev.json
+C:\Users\marti\Documents\Programming Fundamentals C#\Conditional_Statements_And_Loops\P06_Theatre_Promotions\bin\Debug\netcoreapp2.0\P06_Theatre_Promotions.dll
+C:\Users\marti\Documents\Programming Fundamentals C#\Conditional_Statements_And_Loops\P06_Theatre_Promotions\bin\Debug\netcoreapp2.0\P06_Theatre_Promotions.pdb
+C:\Users\marti\Documents\Programming Fundamentals C#\Conditional_Statements_And_Loops\P06_Theatre_Promotions\obj\Debug\netcoreapp2.0\P06_Theatre_Promotions.csprojAssemblyReference.cache
+C:\Users\marti\Documents\Programming Fundamentals C#\Conditional_Statements_And_Loops\P06_Theatre_Promotions\obj\Debug\netcoreapp2.0\P06_Theatre_Promotions.csproj.CoreCompileInputs.cache
+C:\Users\marti\Documents\Programming Fundamentals C#\Conditional_Statements_And_Loops\P06_Theatre_Promotions\obj\Debug\netcoreapp2.0\P06_Theatre_Promotions.AssemblyInfoInputs.cache
+C:\Users\marti\Documents\Programming Fundamentals C#\Conditional_Statements_And_Loops\P06_Theatre_Promotions\obj\Debug\netcoreapp2.0\P06_Theatre_Promotions.AssemblyInfo.cs
+C:\Users\marti\Documents\Programming Fundamentals C#\Conditional_Statements_And_Loops\P06_Theatre_Promotions\obj\Debug\netcoreapp2.0\P06_Theatre_Promotions.dll
+C:\Users\marti\Documents\Programming Fundamentals C#\Conditional_Statements_And_Loops\P06_Theatre_Promotions\obj\Debug\netcoreapp2.0\P06_Theatre_Promotions.pdb
